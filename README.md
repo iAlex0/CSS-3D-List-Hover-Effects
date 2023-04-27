@@ -9,7 +9,7 @@
 ## Usage
 
 #
-3: Clone Repo:
+Clone Repo:
 
 ```bash
 git clone 
